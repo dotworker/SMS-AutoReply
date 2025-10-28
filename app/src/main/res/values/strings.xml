@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">SMS Auto-Reply</string>
+    <string name="fill_all_fields">Bitte alle Felder ausfüllen</string>
+    <string name="settings_saved">Einstellungen gespeichert</string>
+    <string name="paypal_link_error">Fehler beim Öffnen des PayPal-Links</string>
+    <string name="sms_permission_required">SMS-Berechtigungen sind erforderlich</string>
+    <string name="paypal_url">https://www.paypal.me/dotworker</string>
+    <string name="default_reply_message">Automatische Antwort</string>
+
+    <!-- Header Section -->
+    <string name="header_title">📱 SMS Auto-Reply</string>
+    <string name="header_subtitle">Intelligente automatische SMS-Antworten</string>
+
+    <!-- Auto-Reply Switch -->
+    <string name="auto_reply_switch_label">🤖 Auto-Reply aktivieren</string>
+
+    <!-- Delay Switch Section -->
+    <string name="delay_switch_label">⏱️ Zufällige Verzögerung (0-10s)</string>
+    <string name="delay_switch_description">Macht die Antwort natürlicher und verhindert
+        Spam-Erkennung
+    </string>
+
+    <!-- Keyword Section -->
+    <string name="keyword_label">🔍 Schlüsselwort (Bedingung):</string>
+    <string name="keyword_hint">z.B. HILFE, STATUS, INFO</string>
+
+    <!-- Allowed Numbers Section -->
+    <string name="allowed_numbers_label">📞 Erlaubte Absender-Nummern (optional):</string>
+    <string name="allowed_numbers_hint">z.B. +49123456789, 0987654321</string>
+
+    <!-- Reply Message Section -->
+    <string name="reply_message_label">💬 Antwort-Nachricht:</string>
+    <string name="reply_message_hint">Automatische Antwort-Nachricht</string>
+
+    <!-- Save Button -->
+    <string name="save_button_text">⚡ Einstellungen speichern</string>
+
+    <!-- Info Section -->
+    <string name="info_title">ℹ️ Wichtige Hinweise:</string>
+    <string name="info_bullet_points">• Die App benötigt SMS-Berechtigungen\n• Für Android 15+
+        müssen diese manuell aktiviert werden\n• Leer lassen bei \'Erlaubte Nummern\' = alle
+        Absender erlaubt\n• Mehrere Nummern mit Komma trennen
+    </string>
+
+    <!-- Donation Section -->
+    <string name="donation_title">☕ Diese App gefällt dir?</string>
+    <string name="donation_description">Wer mich unterstützen möchte, kann mir gerne eine kleine
+        Spende über PayPal zukommen lassen. Danke! 🙏
+    </string>
+    <string name="donation_link_text">💳 Hier PayPal-Spende senden</string>
+
+    <!-- App Name (falls noch nicht vorhanden) -->
+    <!-- <string name="app_name">SMSAutoReply</string> -->
+</resources>

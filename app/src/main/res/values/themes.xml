@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.Material3.Light">
+        <item name="colorPrimary">#4ECDC4</item>
+        <item name="colorPrimaryDark">#26A69A</item>
+        <item name="colorAccent">#FF7043</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+    <!--
+    <style name="ThemeOverlay.App.Switch.GrayOff" parent="">
+        <! - - Diese Farbe wird für den Kreis (thumb) im AUS-Zustand verwendet - - >
+        <item name="colorSurfaceContainerHighest">#BDBDBD</item> <!- - Grau für den Kreis - ->
+
+        <!- - Diese Farbe wird für die Leiste (track) im AUS-Zustand verwendet - - >
+        <item name="colorOnSurface">#9E9E9E</item> <!- - Dunkleres Grau für die Leiste - - >
+    </style>
+    -->
+</resources>
