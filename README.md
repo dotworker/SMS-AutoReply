@@ -1,6 +1,6 @@
 ## Über diese App
 
-Diese Android-App wurde entwickelt, um ein häufiges Problem zu lösen: Das Datenvolumen geht während wichtiger Meetings aus, und man muss manuell zum Handy greifen, um per SMS neues Volumen nachzubuchen - meist in kleinen 2GB-Schritten.
+Diese Android-App wurde entwickelt, um ein häufiges Problem zu lösen: Das Datenvolumen geht während wichtiger Meetings aus, und man muss manuell zum Handy greifen, um per SMS neues Volumen nachzubuchen - meist in kleinen 2GB-Schritten. Oft bei on Demand Tarifen.
 
 Da im Play Store keine passende Lösung zu finden war (entweder nicht geeignet oder zu teuer), habe ich selbst eine App programmiert. Dies ist meine erste Android-App, daher gibt es sicherlich noch Verbesserungspotenzial. Aber sie funktioniert zuverlässig und läuft stabil (zumindest auf meinem Gerät ;-) ).
 
